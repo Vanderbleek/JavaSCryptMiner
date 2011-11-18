@@ -1,1 +1,2 @@
 This is a miner for litecoins, written in Java. It uses the sCrypt implementation found at https://github.com/wg/scrypt
+Converter class from http://www.daniweb.com/software-development/java/code/216874
